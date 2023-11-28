@@ -1,0 +1,13 @@
+RAW_URL_FILE=url.txt
+MAX_PAGE=84
+NON_CRAWL_FILE=processing_url.txt
+CRAWLED_FILE=done_url.txt
+ERROR_FILE=err_url.txt
+MAX_CRAWL_TIME=200
+USE_CHROME=YES
+CHROMEDRIVER_PATH=./chromedriver.exe
+USER_CHROME_DIR=C:/Users/Admin/AppData/Local/Google/Chrome/User Data/Default
+TIMEOUT=1
+MONGODB_DATABASE_URI=mongodb://localhost:27017/
+MONGODB_DATABASE_NAME=coursera
+NUMBER_OF_CRAWL_MACHINE=1

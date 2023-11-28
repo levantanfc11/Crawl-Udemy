@@ -1,0 +1,4 @@
+undetected_chromedriver
+python-dotenv
+pymongo
+selenium==4.9
