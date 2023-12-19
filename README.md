@@ -46,7 +46,7 @@ Cấu hình crawl bot:
 - Bước này sẽ mất khá nhiều thời gian nếu bạn sử dụng chỉ 1 máy để chạy. Trung bình 1 khóa học sẽ tốn khoảng 8 giây để thu thập tất cả dữ liệu
 
 ## Cơ sở dữ liệu:
-File dữ liệu: mongodb://admin:tranlybuu@103.214.9.124:1236
+File dữ liệu: processed_courses.csv
 - Title: Tên khóa học
 - best_seller: 
 - price: giá khóa học
